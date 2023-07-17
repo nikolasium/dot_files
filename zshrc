@@ -1,6 +1,5 @@
 alias eZ="vim ~/.zshrc"
 alias eI="vim ~/.config/i3/config"
-alias eI="vim ~/.config/i3/config"
 alias eV="vim ~/.vimrc"
 alias ls='ls --color=auto'
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
